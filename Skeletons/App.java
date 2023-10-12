@@ -9,9 +9,6 @@ import com.github.ryan6073.Richer.Players.PlayerMgr;
 public class App {
 
     public void init() {
-        // 初始化随机数发生器
-        // private Random random = new Random();
-//        Random random = new Random(System.currentTimeMillis());
 
         // 确定使用的Map工厂
 //        MapFactory mapFac = MapFactory.getInstance();
